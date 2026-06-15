@@ -1,12 +1,12 @@
 {
-  "log_directory": "./logs/",
   "execution_control": {
     "allocation": "rev",
-    "qos": "high",
     "option": "eagle",
+    "qos": "high",
     "walltime": 1
   },
   "gen_fpath": "PIPELINE",
+  "log_directory": "./logs/",
   "log_level": "DEBUG",
   "nrwal_configs": {
     "offshore": "./semi_8MW_2017.yaml"
