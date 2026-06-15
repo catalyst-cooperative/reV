@@ -1,13 +1,13 @@
 {
-  "log_directory": "./logs/",
   "execution_control": {
     "allocation": "rev",
-    "qos": "high",
     "max_workers": 1,
     "option": "eagle",
+    "qos": "high",
     "walltime": 1
   },
   "gen_fpath": "PIPELINE",
+  "log_directory": "./logs/",
   "log_level": "INFO",
   "nrwal_configs": "PLACEHOLDER",
   "offshore_fpath": "PLACEHOLDER",

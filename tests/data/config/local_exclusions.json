@@ -1,5 +1,4 @@
 {
-  "log_directory": "TESTDATADIR/ri_excl_reV2",
   "exclusions": [
     {
       "band": 1,
@@ -23,6 +22,7 @@
   },
   "filter": "queen",
   "fout": "exclusions.tif",
+  "log_directory": "TESTDATADIR/ri_excl_reV2",
   "log_level": "DEBUG",
   "use_blocks": true
 }

@@ -16,4 +16,3 @@ Examples
    examples.running_locally
    examples.aws_pcluster
    examples.running_with_hsds
-
