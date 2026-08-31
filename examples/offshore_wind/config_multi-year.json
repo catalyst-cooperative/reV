@@ -1,5 +1,4 @@
 {
-  "log_directory": "./logs/",
   "execution_control": {
     "allocation": "rev",
     "feature": "-p debug",
@@ -34,5 +33,6 @@
       "source_prefix": ""
     }
   },
+  "log_directory": "./logs/",
   "log_level": "INFO"
 }

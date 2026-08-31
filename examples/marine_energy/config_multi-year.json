@@ -1,9 +1,8 @@
 {
-  "log_directory": "./logs/",
   "execution_control": {
     "allocation": "rev",
-    "qos": "high",
     "option": "eagle",
+    "qos": "high",
     "walltime": 1
   },
   "groups": {
@@ -42,5 +41,6 @@
       "source_prefix": ""
     }
   },
+  "log_directory": "./logs/",
   "log_level": "INFO"
 }

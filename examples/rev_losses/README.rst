@@ -174,4 +174,3 @@ as well as the ``percentage_of_capacity_lost`` for each outage.
     print(gen.out['cf_profile'][:744].mean(axis=0))
 
     [0.67402536, 0.6644584]
-
