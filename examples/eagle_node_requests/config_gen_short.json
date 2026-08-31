@@ -3,13 +3,13 @@
     2010,
     2011
   ],
-  "log_directory": "/scratch/gbuster/rev/test_pipeline",
   "execution_control": {
     "allocation": "rev",
     "nodes": 5,
     "option": "eagle",
     "walltime": 4.0
   },
+  "log_directory": "/scratch/gbuster/rev/test_pipeline",
   "log_level": "INFO",
   "output_request": [
     "cf_mean",

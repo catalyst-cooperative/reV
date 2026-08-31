@@ -1,5 +1,4 @@
 {
-  "log_directory": "./logs/",
   "execution_control": {
     "option": "slurm"
   },
@@ -15,5 +14,6 @@
       "source_prefix": ""
     }
   },
+  "log_directory": "./logs/",
   "log_level": "INFO"
 }
