@@ -1,7 +1,6 @@
 {
   "analysis_years": 2012,
   "cf_file": "placeholder",
-  "log_directory": "./",
   "execution_control": {
     "allocation": "rev",
     "nodes": 20,
@@ -9,6 +8,7 @@
     "sites_per_worker": 100,
     "walltime": 3
   },
+  "log_directory": "./",
   "log_level": "INFO",
   "output_request": [
     "ppa_price",
