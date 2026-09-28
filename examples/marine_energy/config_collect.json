@@ -29,8 +29,8 @@
   ],
   "execution_control": {
     "allocation": "rev",
-    "qos": "high",
     "option": "eagle",
+    "qos": "high",
     "walltime": 1
   },
   "log_directory": "./logs/",

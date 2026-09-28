@@ -1,14 +1,14 @@
 {
-  "log_directory": "./logs/",
   "execution_control": {
     "allocation": "rev",
-    "qos": "high",
     "memory": 90,
     "nodes": 1,
     "option": "eagle",
+    "qos": "high",
     "walltime": 4
   },
   "fixed_charge_rate": 0.096,
+  "log_directory": "./logs/",
   "sc_features": null,
   "sc_points": "PIPELINE",
   "simple": false,
