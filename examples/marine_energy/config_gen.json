@@ -1,14 +1,14 @@
 {
   "analysis_years": "PLACEHOLDER",
-  "log_directory": "./logs/",
   "execution_control": {
     "allocation": "rev",
-    "qos": "high",
     "nodes": 10,
     "option": "eagle",
+    "qos": "high",
     "sites_per_worker": 100,
     "walltime": 4
   },
+  "log_directory": "./logs/",
   "log_level": "INFO",
   "output_request": [
     "cf_mean",
