@@ -1,10 +1,9 @@
 {
-  "log_directory": "./",
   "execution_control": {
     "allocation": "rev",
-    "qos": "high",
     "memory": 90,
     "option": "eagle",
+    "qos": "high",
     "walltime": 0.5
   },
   "groups": {
@@ -57,5 +56,6 @@
       "source_prefix": "wthh80_wtpp1_gen"
     }
   },
+  "log_directory": "./",
   "log_level": "INFO"
 }

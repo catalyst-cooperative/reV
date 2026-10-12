@@ -1,11 +1,11 @@
 {
-  "log_directory": "./logs/",
   "execution_control": {
     "allocation": "rev",
     "feature": "-p debug",
     "option": "eagle",
     "walltime": 1.0
   },
+  "log_directory": "./logs/",
   "log_level": "DEBUG",
   "modules": {
     "supply-curve-aggregation": {

@@ -1,6 +1,5 @@
 {
   "cf_dset": "cf_mean-means",
-  "log_directory": "./logs/",
   "excl_dict": null,
   "excl_fpath": "/projects/rev/data/exclusions/CONUS_Exclusions.h5",
   "execution_control": {
@@ -28,6 +27,7 @@
     "ws_mean-means"
   ],
   "lcoe_dset": "lcoe_fcr-means",
+  "log_directory": "./logs/",
   "log_level": "INFO",
   "power_density": 3,
   "pre_extract_inclusions": false,

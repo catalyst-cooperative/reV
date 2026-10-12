@@ -5,19 +5,19 @@
     2013
   ],
   "cf_dset": "cf_profile-{}",
-  "log_directory": "./logs/",
   "err_method": "rmse",
   "execution_control": {
     "allocation": "rev",
-    "qos": "high",
     "max_workers": 36,
     "memory": 190,
     "nodes": 1,
     "option": "eagle",
+    "qos": "high",
     "sites_per_worker": 100,
     "walltime": 4.0
   },
   "gen_fpath": "PIPELINE",
+  "log_directory": "./logs/",
   "log_level": "INFO",
   "n_profiles": 5,
   "reg_cols": [

@@ -9487,6 +9487,7 @@
   ],
   "dscr": 1.2999999523162842,
   "dscr_reserve_months": 0,
+  "en_electricity_rates": 1,
   "equip1_reserve_cost": 0,
   "equip1_reserve_freq": 0,
   "equip2_reserve_cost": 0,
@@ -9546,20 +9547,32 @@
   "ibi_uti_percent_tax_sta": 1,
   "inflation_rate": 2.5,
   "insurance_rate": 0,
-  "itc_fed_amount": [0],
+  "itc_fed_amount": [
+    0
+  ],
   "itc_fed_amount_deprbas_fed": 1,
   "itc_fed_amount_deprbas_sta": 1,
-  "itc_fed_percent": [0],
+  "itc_fed_percent": [
+    0
+  ],
   "itc_fed_percent_deprbas_fed": 1,
   "itc_fed_percent_deprbas_sta": 1,
-  "itc_fed_percent_maxvalue": [9.999999680285692e+37],
-  "itc_sta_amount": [0],
+  "itc_fed_percent_maxvalue": [
+    9.999999680285692e+37
+  ],
+  "itc_sta_amount": [
+    0
+  ],
   "itc_sta_amount_deprbas_fed": 0,
   "itc_sta_amount_deprbas_sta": 0,
-  "itc_sta_percent": [0],
+  "itc_sta_percent": [
+    0
+  ],
   "itc_sta_percent_deprbas_fed": 0,
   "itc_sta_percent_deprbas_sta": 0,
-  "itc_sta_percent_maxvalue": [9.999999680285692e+37],
+  "itc_sta_percent_maxvalue": [
+    9.999999680285692e+37
+  ],
   "loan_moratorium": 0,
   "months_receivables_reserve": 0,
   "months_working_reserve": 0,
@@ -9617,7 +9630,6 @@
   "ppa_price_input": [
     0.029999999329447746
   ],
-  "en_electricity_rates": 1,
   "ppa_soln_mode": 0,
   "prop_tax_assessed_decline": 0,
   "prop_tax_cost_assessed_percent": 0,

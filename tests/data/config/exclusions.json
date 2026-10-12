@@ -1,5 +1,4 @@
 {
-  "log_directory": "TESTDATADIR/ri_pv_reV2",
   "dirout": "./",
   "exclusions": [
     {
@@ -38,6 +37,7 @@
   },
   "filter": "queen",
   "fout": "exclusions.tif",
+  "log_directory": "TESTDATADIR/ri_pv_reV2",
   "log_level": "DEBUG",
   "use_blocks": true
 }

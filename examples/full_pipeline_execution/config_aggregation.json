@@ -10,7 +10,6 @@
       "method": "mean"
     }
   },
-  "log_directory": "./logs/",
   "excl_dict": {
     "smod": {
       "inclusion_weights": {
@@ -30,14 +29,15 @@
   "excl_fpath": "./rev_conus_exclusions.h5",
   "execution_control": {
     "allocation": "rev",
-    "qos": "high",
     "memory": 90,
     "nodes": 1,
     "option": "eagle",
+    "qos": "high",
     "walltime": 4.0
   },
   "gen_fpath": "PIPELINE",
   "lcoe_dset": "lcoe_fcr-means",
+  "log_directory": "./logs/",
   "power_density": 31.5,
   "res_class_bins": [
     0,
