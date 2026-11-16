@@ -5,9 +5,9 @@
   ],
   "execution_control": {
     "allocation": "rev",
-    "qos": "high",
     "memory": 90,
     "option": "eagle",
+    "qos": "high",
     "walltime": 0.5
   },
   "log_directory": "./",

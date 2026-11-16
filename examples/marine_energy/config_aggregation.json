@@ -1,12 +1,11 @@
 {
   "cf_dset": "cf_mean-means",
-  "log_directory": "./logs/",
   "excl_dict": null,
   "excl_fpath": "/shared-projects/rev/exclusions/Offshore_Exclusions.h5",
   "execution_control": {
     "allocation": "rev",
-    "qos": "high",
     "option": "eagle",
+    "qos": "high",
     "walltime": 4.0
   },
   "gen_fpath": "PIPELINE",
@@ -36,6 +35,7 @@
     "fixed_charge_rate"
   ],
   "lcoe_dset": "lcoe_fcr-means",
+  "log_directory": "./logs/",
   "log_level": "INFO",
   "power_density": "PLACEHOLDER",
   "pre_extract_inclusions": false,
